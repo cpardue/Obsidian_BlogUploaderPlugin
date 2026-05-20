@@ -1,0 +1,5 @@
+node_modules/
+*.js
+*.map
+.obsidian/
+.DS_Store
