@@ -1,0 +1,11 @@
+{
+  "id": "blog-uploader",
+  "name": "Blog Uploader",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Upload Obsidian notes to a GitHub Pages blog as formatted posts.",
+  "author": "cpardue",
+  "authorUrl": "",
+  "fundingUrl": {},
+  "isDesktopOnly": false
+}
